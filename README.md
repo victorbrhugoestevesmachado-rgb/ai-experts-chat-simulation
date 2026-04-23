@@ -6,7 +6,14 @@ Este projeto foi desenvolvido com apoio do NotebookLM.
 
 Acesse o caderno completo com todas as fontes e interações:
 
-👉 https://notebooklm.google.com/notebook/a56129ff-0c21-4ea8-89d5-74837a9d71d9
+## 🧠 Metodologia
+
+Este projeto foi desenvolvido utilizando:
+
+- Curadoria de fontes (vídeos e artigos)
+- Uso do NotebookLM para análise e organização
+- Geração de debates simulados com IA
+- Extração de insights com base em múltiplas perspectivas
 
 ## 🧠 Sobre o Projeto
 Este projeto utiliza Inteligência Artificial para simular debates entre especialistas renomados da área, com base em conteúdos reais.
@@ -20,7 +27,9 @@ Explorar diferentes perspectivas sobre Inteligência Artificial:
 - Uso no dia a dia
 
 ## 💬 Diferencial
-Simulação de debates entre especialistas, promovendo aprendizado ativo e pensamento crítico.
+
+Este projeto simula discussões entre especialistas em IA,
+permitindo visualizar diferentes perspectivas sobre o mesmo tema.
 
 ## 🛠️ Tecnologias
 - NotebookLM
