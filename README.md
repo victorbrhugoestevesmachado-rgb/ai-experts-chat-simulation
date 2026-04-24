@@ -6,6 +6,8 @@ Este projeto foi desenvolvido com apoio do NotebookLM.
 
 Acesse o caderno completo com todas as fontes e interações:
 
+👉🏼https://notebooklm.google.com/notebook/a56129ff-0c21-4ea8-89d5-74837a9d71d9
+
 ## 🧠 Metodologia
 
 Este projeto foi desenvolvido utilizando:
